@@ -1,4 +1,4 @@
-Country,Happiness Rank,Happiness Score,Economy (Loged GDP per Capita),Social Support,Life Expectancy,Year
+Country,HappinessRank,HappinessScore,Economy,SocialSupport,LifeExpectancy,Year
 Switzerland,1,7.59 ,13.97 ,1.35 ,0.94 ,2015
 Iceland,2,7.56 ,13.02 ,1.40 ,0.95 ,2015
 Denmark,3,7.53 ,13.25 ,1.36 ,0.87 ,2015
